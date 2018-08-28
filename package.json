@@ -1,0 +1,19 @@
+{
+  "name": "playing-with--node",
+  "version": "0.1.0",
+  "description": "Playing with node core codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./modules/index.js"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Gobinda Thakur",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.4.0",
+    "express": "^4.16.3"
+  }
+}
